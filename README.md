@@ -8,28 +8,28 @@ The application allows users to store, view, search, edit, and delete contact de
 This project is designed to strengthen core C programming concepts commonly used in embedded software development.
 
 # Feature
-➕Add Contact
+➕Add Contact:
 Add new contacts with details like name, phone number, and email ID.
 
-📋 List All Contacts
+📋 List All Contacts:
 Display all stored contacts in a structured and readable format.
 
-🔍 Search Contact
+🔍 Search Contact:
 Search for a contact using name or phone number.
 
-✏️ Edit Contact
+✏️ Edit Contact:
 Modify existing contact details.
 
-❌ Delete Contact
+❌ Delete Contact:
 Remove a contact permanently from the address book.
 
 # Technologies Used
 Language: C 
 
 Concepts:
-        Structures
-        Pointers
-        File I/O
+        Structures,
+        Pointers,
+        File I/O,
         Modular Programming
 
 Platform: Visual Studio Code
